@@ -1,0 +1,41 @@
+.head-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  background-color: black;
+}
+
+.head-section-edit-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.head-section-icon {
+  width: 14.55px;
+  height: 14.55px;
+  margin-left: 10px;
+  margin-top: 12px;
+  margin-bottom: 13px;
+}
+
+.head-section-edit-text {
+  font-size: 16px;
+  font: "roboto";
+  font-weight: 500;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 13px;
+  color: #999999;
+}
+
+.head-section-editing {
+  font-size: 16px;
+  font: "roboto";
+  font-weight: 500;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 13px;
+  color: #999999;
+}
