@@ -1,10 +1,11 @@
+import HeaderSection from "./component/HeaderSection/Header";
+
 import "./App.css";
-import HeaderComponent from "./component/Header-section/header.js";
 
 function App() {
   return (
     <div>
-      <HeaderComponent />
+      <HeaderSection />
     </div>
   );
 }
