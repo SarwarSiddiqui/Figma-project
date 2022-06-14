@@ -1,5 +1,6 @@
-import "./Header.css";
 import Icon from "../../Images/Icon.png";
+
+import "./Header.css";
 
 function HeaderComponent() {
   return (
