@@ -1,0 +1,31 @@
+#container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.Nav-frame {
+  margin-top: 22px;
+  margin-left: 200px;
+}
+
+.Nav-Shape {
+  margin-top: 35px;
+  margin-left: 64px;
+  margin-bottom: 0px;
+}
+
+.Nav-ellipse {
+  margin-top: 0px;
+  margin-left: 335px;
+}
+
+.Nav-button {
+  margin-top: 35px;
+  margin-left: 56px;
+}
+
+.Nav-Account {
+  margin-top: 35px;
+  margin-left: 48px;
+}
