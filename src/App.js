@@ -1,4 +1,4 @@
-import HeaderComponent from "./component/Header-section/header.js";
+import HeaderComponent from "./component/HeaderSection/Header";
 import NavbarComponent from "./component/Navbar-section/nav.js";
 import "./App.css";
 
