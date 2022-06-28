@@ -1,11 +1,12 @@
-import HeaderSection from "./component/HeaderSection/Header";
-
+import HeaderComponent from "./component/HeaderSection/Header";
+import NavbarComponent from "./component/Navbar-section/nav.js";
 import "./App.css";
 
 function App() {
   return (
     <div>
-      <HeaderSection />
+      <HeaderComponent />
+      <NavbarComponent />
     </div>
   );
 }
